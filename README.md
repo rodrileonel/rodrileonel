@@ -2,8 +2,6 @@
 
 ### I'm an Android & Flutter engineer
 
-I'm a professional software developer for more than five years.
-
 ### Skills:
 [![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
 [![Dart](https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
