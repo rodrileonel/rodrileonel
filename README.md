@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Freelance full-stack iOS & Android engineer
+### Android & Flutter engineer
 
 I'm a professional software developer for more than ten years.
 
