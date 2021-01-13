@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm an Android & Flutter engineer
+I'm an Android & Flutter engineer
 
 ### Skills:
 [![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
