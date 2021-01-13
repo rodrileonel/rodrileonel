@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Im an Android & Flutter engineer
+### I'm an Android & Flutter engineer
 
 I'm a professional software developer for more than five years.
 
