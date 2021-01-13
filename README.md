@@ -21,4 +21,4 @@ I'm a professional software developer for more than five years.
 
 ### Contact me:
 
-[![Email](https://img.shields.io/badge/rvaldiviamalaga@gmail.com-my_personal_email?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rvaldiviamalaga@gmail.com)
+[![Email](https://img.shields.io/badge/rvaldiviamalaga@gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rvaldiviamalaga@gmail.com)
